@@ -1,4 +1,4 @@
-package com.example.greenkim.api.member.GetMember
+package com.example.greenkim.api.member.DTO.GetMember
 
 import com.google.gson.annotations.SerializedName
 

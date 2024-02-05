@@ -1,4 +1,4 @@
-package com.example.greenkim.api.member.DTO.profile
+package com.example.greenkim.api.member.DTO.ProfileImg
 
 import com.google.gson.annotations.SerializedName
 
