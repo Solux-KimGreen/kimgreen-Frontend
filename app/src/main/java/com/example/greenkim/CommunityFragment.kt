@@ -9,7 +9,8 @@ import android.view.ViewGroup
 import androidx.lifecycle.MutableLiveData
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.greenkim.databinding.FragmentCommunityBinding
+import com.example.greenkim.databinding.F
+ragmentCommunityBinding
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 // TODO: Rename parameter arguments, choose names that match
